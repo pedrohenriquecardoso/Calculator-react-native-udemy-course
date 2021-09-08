@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "udemy-curso",
+    "slug": "udemy-curso",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "udemy-curso"
+}
